@@ -20,7 +20,7 @@ class EmployeesController extends Controller {
 	 * @return \Illuminate\Contracts\Support\Renderable
 	 */
 	public function index() {
-		return view('employees');
+		// return view('employees');
 	}
 
 	public function getData(){

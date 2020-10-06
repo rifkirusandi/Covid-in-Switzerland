@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="{{ url('covid19') }}">Covid 19 in Switzerland</a>
-                    <a href="{{ url('employees') }}">Employees Data</a>
+                    <a href="{{ url('dataEmployees') }}">Employees Data</a>
                 </div>
             </div>
         </div>

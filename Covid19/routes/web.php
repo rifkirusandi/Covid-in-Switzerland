@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('covid19', 'Covid19Controller@list');
-Route::get('employees', 'EmployeesController@index');
+Route::get('dataEmployees', 'EmployeesController@getData');
 
 // Route::get('covidData', 'Covid19Controller@getData');
 
